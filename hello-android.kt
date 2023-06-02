@@ -1,3 +1,3 @@
 fun main() {
-   println("How's the weather today?")
+   println("Hello, Android!")
 }
